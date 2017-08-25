@@ -107,3 +107,6 @@ background-color:black;
 </body>
 </html>
 
+<h2 style="background-color:blue;color:white">
+Background-color set by using blue
+</h2>
