@@ -1,74 +1,210 @@
 <html>
+
+
+
+
+
+
+
+
+
 </body>
+
 </html>
+
+
+
 <html>
+
 <head>
+
 <style>
-body {background-color: red;}
-h1 {color: white;}
-p {color: black;}
+
+body {background-color: powderblue;}
+
+h1   {color: white;}
+
+p    {color: black;}
+
 </style>
+
 </head>
+
 <body>
+
+   
+
 <html>
+
 <head>
+
 <style>
+
 div.container {
-width: 100%;
-border: 1px solid gray;
+
+    width: 100%;
+
+    border: 1px solid gray;
+
 }
+
+
+
 header, footer {
-padding: 1em;
-color: white;
-background-color: powerblue;
-clear: left;
-text-align: center;
+
+    padding: 1em;
+
+    color: white;
+
+    background-color: powerblue;
+
+    clear: left;
+
+    text-align: center;
+
 }
+
+
+
 nav {
-float: left;
-max-width: 160px;
-margin: 0;
-padding: 1em;
+
+    float: left;
+
+    max-width: 160px;
+
+    margin: 0;
+
+    padding: 1em;
+
 }
+
+
+
 nav ul {
-list-style-type: none;
-padding: 0;
+
+    list-style-type: none;
+
+    padding: 0;
+
 }
+
+   
+
 nav ul a {
-text-decoration: none;
+
+    text-decoration: none;
+
 }
+
+
+
 article {
-margin-left: 170px;
-border-left: 1px solid gray;
-padding: 1em;
-overflow: hidden;
+
+    margin-left: 170px;
+
+    border-left: 1px solid gray;
+
+    padding: 1em;
+
+    overflow: hidden;
+
 }
+
 </style>
+
 </head>
+
 <body>
+
+
+
 <div class="container">
+
+
+
 <header>
-<h1>emily lee</h1>
+
+   <h1>emily lee</h1>
+
 </header>
+
+  
+
 <nav>
-<ul>
-<li><a href="#">About me</a></li>
-<li><a href="#">Week1</a></li>
-<li><a href="#">Week2</a></li>
-<li><a href="#">Week3</a></li>
-<li><a href="#">Week4</a></li>
-<li><a href="#">Week5</a></li>
-<li><a href="#">Week6</a></li>
-<li><a href="#">Week7</a></li>
-<li><a href="#">Week8</a></li>
-<li><a href="#">Week</a></li>
-<li><a href="#">Final Project</a></li>
+
+  <ul>
+
+    <li><a href="#">About me</a></li>
+
+	  
+
+    <li><a href="#">Week1</a></li>
+
+	  
+
+    <li><a href="#">Week2</a></li>
+
+	  
+
+	<li><a href="#">Week3</a></li>
+
+	  
+
+    <li><a href="#">Week4</a></li>
+
+	  
+
+	<li><a href="#">Week5</a></li>
+
+	  
+
+    <li><a href="#">Week6</a></li> 
+
+	  
+
+	<li><a href="#">Week7</a></li>
+
+	  
+
+    <li><a href="#">Week8</a></li>
+
+	  
+
+	 <li><a href="#">Week</a></li>
+
+	  
+
+	  <li><a href="#">Final Project</a></li>
+
 </nav>
+
+
+
 <article>
-<h1>2017-2018</h1>
-<img src="22.jpg"/>
+
+  <h1>2017-2018</h1>
+
+  <img src="22.jpg"/>
+
 </article>
+
+
+
 <footer>Copyright &copy; W3Schools.com</footer>
+
+
+
 </div>
+
+
+
 </body>
+
 </html>
+
+
+
+
+
+
+
